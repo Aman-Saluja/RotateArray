@@ -7,7 +7,7 @@ public class RotateArray {
 	public static void main(String[] args) {
 	
 		int[] arr = {1,2,3,4,5,6,7};
-		int count = 10;
+		int count = 2;
 		if(count<0) System.out.println("Number of rotations cannot be negative");
 		else {
 			arr = rotateArrayToLeft(arr,count);
