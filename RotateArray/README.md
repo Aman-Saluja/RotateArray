@@ -1,2 +1,0 @@
-# RotateArray
-Coding Assignment
